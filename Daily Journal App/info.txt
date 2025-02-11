@@ -1,0 +1,26 @@
+Features:
+    ✅ Frontend (React):
+
+        Simple journaling interface
+        Mood indicators
+        Image attachments
+
+    ✅ Backend (Node.js + Express + MongoDB):
+
+        User authentication (JWT-based)
+        Store and retrieve journal entries
+        Search journal entries
+        Handle image uploads
+
+    🎨 Features & Enhancements
+        ✔ Polished UI using Material-UI & TailwindCSS
+        ✔ JWT Authentication (secure login & logout)
+        ✔ Journal Entries with Mood & Image Upload
+        ✔ Responsive & Modern Design
+        ✔ Dark Mode - User can toggle between light and dark themes.
+        ✔ Rich Text Editing - A powerful editor for journal entries.
+        ✔ AI-Powered Sentiment Analysis - Determines mood based on entry text.
+ 🎯 Final Enhancements
+        🌙 Dark Mode toggle in Navbar
+        🖊 Rich Text Editor for journaling
+        🤖 Sentiment Analysis for mood tracking
